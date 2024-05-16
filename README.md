@@ -1,4 +1,4 @@
-clone this project use : git clone  
+clone this project use : git clone  https://github.com/Gpchandrarao/Endimension.git
 after use cd project name
 after use npm install 
 start Server use this command : npx json-server --watch db.json --port 8080
